@@ -43,8 +43,8 @@ npx eslint --version
 1. Clone Repo (console):
 
 ```bash
-git clone <URL-del-repositorio>
-cd <nombre-del-proyecto>
+git clone https://github.com/pabloexeg/cypress-poc.git
+cd cypress-poc
 ```
 
 2. Install dependencies:
