@@ -17,7 +17,7 @@
 ## 🚀 Project Goal
 
 This project should validate when an user adds a product in the cart without Account logged. 
-All test must pass and project should meet all tech & test cases required in Challange file.
+All test must pass and project should meet all tech & test cases required in Challenge file.
 
 ---
 
@@ -66,7 +66,7 @@ npm run cy:open
 ### Execute Test in Cypress headless (console):
 
 ```bash
-npm run cy:run:challange
+npm run cy:run:challenge
 ```
 
 ### Execute ESLint validation:
@@ -104,7 +104,7 @@ tsconfig.json               # Config TypeScript
 "scripts": {
   "cy:open": "cypress open",
   "lint": "eslint . --ext .ts",
-  "cy:run:challange": "cypress run --spec 'cypress/e2e/ChallengeTest.cy.ts'"
+  "cy:run:challenge": "cypress run --spec 'cypress/e2e/ChallengeTest.cy.ts'"
 }
 ```
 

@@ -6,7 +6,7 @@
   "scripts": {
     "cy:open": "cypress open",
     "lint": "eslint . --ext .ts",
-    "cy:run:challange": "cypress run --spec 'cypress/e2e/ChallengeTest.cy.ts'"
+    "cy:run:challenge": "cypress run --spec 'cypress/e2e/ChallengeTest.cy.ts'"
   },
   "keywords": [],
   "author": "",
